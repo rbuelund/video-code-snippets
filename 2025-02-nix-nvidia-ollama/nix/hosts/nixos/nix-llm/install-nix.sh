@@ -1,5 +1,5 @@
 #!/bin/bash
-# git clone -b nix-nvidia https://github.com/tailscale-dev/video-code-snippets.git
+# git clone -b nix-nvidia https://github.com/rbuelund/video-code-snippets.git
 # cd video-code-snippets/2025-02-nix-nvidia-ollama/nix/hosts/nixos/nix-llm/
 # sh install-nix.sh
 
